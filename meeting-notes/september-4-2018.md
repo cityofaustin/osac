@@ -1,3 +1,9 @@
+---
+description: >-
+  Exploring smart city infrastructure and connectivity challenges and
+  opportunities
+---
+
 # September 4, 2018
 
 Meeting date: September 4, 2018   
