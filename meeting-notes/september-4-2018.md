@@ -1,6 +1,6 @@
 ---
 description: >-
-  Exploring smart city infrastructure and connectivity challenges and
+  Explored smart city infrastructure and connectivity challenges and
   opportunities
 ---
 

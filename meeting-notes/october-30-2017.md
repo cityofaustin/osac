@@ -1,5 +1,7 @@
 ---
-description: Discussion of smart city strategic roadmap
+description: >-
+  Discussed an update on the smart city strategic roadmap before delivery to
+  Council
 ---
 
 # October 30, 2017
@@ -11,16 +13,6 @@ Meeting time: 10:00 AM - 11:30 AM
 
 * Feedback and insights on the smart city roadmap update
 * Identification of challenges facing multiple departments and what roles the committee might play in solving them
-
-## Open items from previous meetings
-
-* Naming the board
-* Updates on projects discussed in July:
-  * 5G PAWR Research Grant
-  * US Ignite
-  * Small Cell Wireless
-  * Data Rodeo \(Big Hub Data Spoke\) grant
-  * Small Cell Wireless
 
 ## Agend**a**
 
@@ -46,6 +38,16 @@ Stakeholder relationships and partnerships
 * Scoping kiosk project with Downtown Austin Alliance and other partners
 
 Additional agenda topics and action items
+
+## Open items from previous meetings
+
+* Naming the board
+* Updates on projects discussed in July:
+  * 5G PAWR Research Grant
+  * US Ignite
+  * Small Cell Wireless
+  * Data Rodeo \(Big Hub Data Spoke\) grant
+  * Small Cell Wireless
 
 ## Meeting notes
 

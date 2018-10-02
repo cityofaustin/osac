@@ -1,6 +1,6 @@
 ---
 description: >-
-  How departments collaborate and partner with external organizations on
+  Explored City collaborations and partnerships with external organizations on
   technology projects
 ---
 
@@ -12,9 +12,9 @@ Location: Executive Session Room, City Hall 1st floor
 
 ## **Desired meeting outcomes**
 
-* **Progress on issues identified in previous meeting, and identify issues to delegate to working groups to prepare for future Advisory Committee meetings**
-* **Shared understanding of guidance on how departments collaborate and partner on technology projects**
-* **Approved first iteration of committee charter**
+* Progress on issues identified in previous meeting, and identify issues to delegate to working groups to prepare for future Advisory Committee meetings
+* Shared understanding of guidance on how departments collaborate and partner on technology projects
+* Approved first iteration of committee charter
 
 ## **Agenda**
 

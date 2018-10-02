@@ -1,5 +1,5 @@
 ---
-description: Determining focus areas for open and smart portfolio in 2018
+description: Set focus areas for open government and smart city portfolio in 2018
 ---
 
 # January 22, 2018
@@ -41,6 +41,10 @@ Last meeting: October 30, 2017 \([link to notes](https://docs.google.com/documen
 * Security policy: Addressing needs for technology security policy across departments
 
 ## Meeting notes
+
+[Updated charter for Open and Smart Advisory Committee](https://docs.google.com/document/d/1fwKLo_9YXwOKRKyaOxN1Wxc6i8cirTH24qIVpYsVW2E/edit#heading=h.iowb35jq3bpq)
+
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vR29pA_52oWb6LanAlNWhTTl9MYMpuE87MTew0NtU7uR2ERs32jikKc-JSqLCgYoMqN7e4ib4iOna7g/pub?start=false&loop=false&delayms=3000)
 
 ### **I. Context: Where we’ve been and where we are**
 

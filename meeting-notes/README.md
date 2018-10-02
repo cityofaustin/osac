@@ -1,2 +1,2 @@
-# Meeting notes
+# Meeting agendas & notes
 

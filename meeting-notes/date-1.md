@@ -1,5 +1,7 @@
 ---
-description: Building a “front door” to the City for the smart city community
+description: >-
+  Examined possible plans for a “front door” to the City for the smart city
+  community
 ---
 
 # June 18, 2018
