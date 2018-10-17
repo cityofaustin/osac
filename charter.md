@@ -152,6 +152,8 @@ Want to suggest updates? All this content is on [github](https://github.com/city
           <br />
         </p>
         <p>Reformatted charter layout</p>
+        <p></p>
+        <p><a href="https://docs.google.com/document/d/1fwKLo_9YXwOKRKyaOxN1Wxc6i8cirTH24qIVpYsVW2E/edit?usp=sharing">Draft version of charter is archived online here</a>.</p>
       </td>
     </tr>
     <tr>
