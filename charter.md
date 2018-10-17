@@ -130,8 +130,8 @@ Want to suggest updates? All this content is on [github](https://github.com/city
     <tr>
       <td style="text-align:left">October 2013</td>
       <td style="text-align:left">Version 1.0</td>
-      <td style="text-align:left">Founding charter of the Open Government Operating Board (as directed in
-        the <a href="https://github.com/cityofaustin/osac/blob/master/.gitbook/assets/open_government_directive_082613.pdf">2013 Open Government Directive</a>)</td>
+      <td style="text-align:left"><a href="https://github.com/cityofaustin/osac/blob/master/.gitbook/assets/open-government-operating-board-charter.pdf">Founding charter</a> of
+        the Open Government Operating Board (as directed in the <a href="https://github.com/cityofaustin/osac/blob/master/.gitbook/assets/open_government_directive_082613.pdf">2013 Open Government Directive</a>)</td>
     </tr>
     <tr>
       <td style="text-align:left">January 17, 2018</td>
