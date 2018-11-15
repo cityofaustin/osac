@@ -1,9 +1,3 @@
----
-description: >-
-  Examined possible plans for a “front door” to the City for the smart city
-  community
----
-
 # June 18, 2018
 
 Meeting date: June 18, 2018  

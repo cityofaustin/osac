@@ -1,7 +1,3 @@
----
-description: Set focus areas for open government and smart city portfolio in 2018
----
-
 # January 22, 2018
 
 Meeting date: January 22, 2018  

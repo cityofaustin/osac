@@ -1,9 +1,3 @@
----
-description: >-
-  Explored City collaborations and partnerships with external organizations on
-  technology projects
----
-
 # April 2, 2018
 
 Meeting date: April 2, 2018  

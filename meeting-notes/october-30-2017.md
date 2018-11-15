@@ -1,9 +1,3 @@
----
-description: >-
-  Discussed an update on the smart city strategic roadmap before delivery to
-  Council
----
-
 # October 30, 2017
 
 Meeting date: October 30, 2017   
