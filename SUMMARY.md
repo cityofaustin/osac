@@ -10,6 +10,7 @@
   * [October 30, 2017](meeting-notes/october-30-2017.md)
   * [July 27, 2017](meeting-notes/july-27-2017.md)
   * [May 16, 2017](meeting-notes/may-16-2017.md)
+* [Working groups](working-groups.md)
 * [Projects](projects.md)
 * [Contact](contact.md)
 
