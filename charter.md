@@ -109,7 +109,9 @@ The Chair, or designee, will periodically provide summary reports or updates to 
 
 ## **5.0 Approval**
 
-The charter is in draft as of October 2, 2018. [The version of the charter used during drafting and revision is here](https://docs.google.com/document/d/1fwKLo_9YXwOKRKyaOxN1Wxc6i8cirTH24qIVpYsVW2E/edit?usp=sharing).
+Charter approved October 30, 2018 by Chair Rey Arellano. 
+
+[Here is a previous version of the charter used during drafting and revision](https://docs.google.com/document/d/1fwKLo_9YXwOKRKyaOxN1Wxc6i8cirTH24qIVpYsVW2E/edit?usp=sharing).
 
 ## 6.0 Revision history
 
@@ -129,13 +131,13 @@ Want to suggest updates? All this content is on [github](https://github.com/city
   <tbody>
     <tr>
       <td style="text-align:left">October 2013</td>
-      <td style="text-align:left">Version 1.0</td>
+      <td style="text-align:left">Version 0.0</td>
       <td style="text-align:left"><a href="https://github.com/cityofaustin/osac/blob/master/.gitbook/assets/open-government-operating-board-charter.pdf">Founding charter</a> of
         the Open Government Operating Board (as directed in the <a href="https://github.com/cityofaustin/osac/blob/master/.gitbook/assets/open_government_directive_082613.pdf">2013 Open Government Directive</a>)</td>
     </tr>
     <tr>
       <td style="text-align:left">January 17, 2018</td>
-      <td style="text-align:left">Version 2.0 DRAFT</td>
+      <td style="text-align:left">Version 0.1 DRAFT</td>
       <td style="text-align:left">
         <p>Changed name of group from Open Government Operating Board to Open and
           Smart Advisory Committee to reflect advisory role in smart cities (technology)
@@ -158,13 +160,13 @@ Want to suggest updates? All this content is on [github](https://github.com/city
     </tr>
     <tr>
       <td style="text-align:left">March 13, 2018</td>
-      <td style="text-align:left">Version 2.1 DRAFT</td>
+      <td style="text-align:left">Version 0.2 DRAFT</td>
       <td style="text-align:left">Reorganized charter to position purpose and scope at beginning. No changes
         to content.</td>
     </tr>
     <tr>
       <td style="text-align:left">September 28, 2018</td>
-      <td style="text-align:left">Version 2.2 DRAFT</td>
+      <td style="text-align:left">Version 0.3 DRAFT</td>
       <td style="text-align:left">
         <p>Purpose and Authority and Reporting sections updated to reflect how the
           Committee relates to the City’s technology governance process.
@@ -181,6 +183,11 @@ Want to suggest updates? All this content is on [github](https://github.com/city
         </p>
         <p>Revised Reporting section for readability</p>
       </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">October 30, 2018</td>
+      <td style="text-align:left">Version 1.0</td>
+      <td style="text-align:left">Charter approved</td>
     </tr>
   </tbody>
 </table>
