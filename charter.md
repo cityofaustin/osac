@@ -149,8 +149,8 @@ Want to suggest updates? All this content is on [github](https://github.com/city
           Steering Committee)
           <br />
         </p>
-        <p>Updated description of the committee’s purpose and responsibilities to
-          reflect its advisory role in technology projects
+        <p>Updated description of the committee&#x2019;s purpose and responsibilities
+          to reflect its advisory role in technology projects
           <br />
         </p>
         <p>Reformatted charter layout</p>
@@ -169,11 +169,12 @@ Want to suggest updates? All this content is on [github](https://github.com/city
       <td style="text-align:left">Version 0.3 DRAFT</td>
       <td style="text-align:left">
         <p>Purpose and Authority and Reporting sections updated to reflect how the
-          Committee relates to the City’s technology governance process.
-          <br />
+          Committee relates to the City&#x2019;s technology governance process.
+          <br
+          />
         </p>
         <p>Updates to Membership and Roles section:</p>
-        <p>- Vice Chair changed to open to reflect Assistant City Manager Mark Washington’s
+        <p>- Vice Chair changed to open to reflect Assistant City Manager Mark Washington&#x2019;s
           departure</p>
         <p>- Voting roles clarified for each set of members</p>
         <p>- Added department representatives (Public Works, Development Services,

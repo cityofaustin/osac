@@ -3,6 +3,7 @@
 * [About the Open & Smart Advisory Committee](README.md)
 * [Charter](charter.md)
 * [Meeting agendas & notes](meeting-notes/README.md)
+  * [April 12, 2019](meeting-notes/april-12-2019.md)
   * [January 25, 2019](meeting-notes/january-25-2019.md)
   * [September 4, 2018](meeting-notes/september-4-2018.md)
   * [June 18, 2018](meeting-notes/date-1.md)

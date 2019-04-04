@@ -49,6 +49,8 @@ Last meeting: [September 4, 2018](https://cityofaustin.gitbook.io/osac/meeting-n
 
 ## Meeting notes
 
+[Meeting slides](https://docs.google.com/presentation/d/14QON4y9tEikmsslM30RBymDUXZo8oAoS8-6OtTsoPTg/edit?usp=sharing)
+
 ### I. Welcome and meeting overview
 
 * Last meeting: September 2018, discussed smart city infrastructure and connectivity issues. 
@@ -114,7 +116,7 @@ Discussion:
 * Equitable outcomes: Continuing to explore demographic data standards and collection practices, in service of being able to measure impacts of services on different communities.  
 * Governance: Involved in the CTM intake process. Drafting templates and standard contract language for collaboration with outside entities. 
 * Emerging tech: Will focus on building this working group in 2019. Innovation Office is continuing to explore models for use of blockchain for identity management for people experiencing homelessness. 
-* Projects: 
+* Projects: Group will put effort toward the intake process and outcome summits in 2019. 
 
 #### Announcements and requests
 
