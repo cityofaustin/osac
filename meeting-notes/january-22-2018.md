@@ -1,6 +1,6 @@
 ---
 description: >-
-  text
+  Identifying focus areas for open and smart portfolio in 2018
 ---
 # January 22, 2018
 
