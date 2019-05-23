@@ -1,6 +1,6 @@
 ---
 description: >-
-  text
+  Discussion of smart city infrastructure and connectivity issues
 ---
 # September 4, 2018
 
@@ -51,7 +51,7 @@ Last meeting: June 18, 2018 \([link to notes](https://docs.google.com/document/d
 
 [Meeting slides](https://docs.google.com/presentation/d/1q_wh41skjGtd6es1U2XVKFFpjRkrXaKTjEPq1JnqHwE/edit?usp=sharing)
 
-### **I. Welcome and meeting overview**
+### I. Welcome and meeting overview
 
 Previous meeting, June 2018, discussed needs that departments have for coordination, communication, and partnering on technology projects. [Link to notes](https://docs.google.com/document/d/e/2PACX-1vRtqmml_2Mpko1XYfGm2H0BJKvlgur-lunou6OpgKz9EncN1oVprJ4PYZocOd-GWTzL_1962aX465Iw/pub).
 
@@ -65,7 +65,7 @@ This meeting focuses on the infrastructure and connectivity that enables technol
 
 
 
-### **II. Key issue: Smart city infrastructure and connectivity**
+### II. Key issue: Smart city infrastructure and connectivity
 
 #### Industry trends and 5G rollout \(Jason JonMichael - Austin Transportation Department\)
 
@@ -73,7 +73,7 @@ This meeting focuses on the infrastructure and connectivity that enables technol
 * 5G is still a research program. 5G will be in deployment in 2019-2020 once the appropriate standards are adopted.
 * The speed of 5G is necessary for the interaction of connected vehicles and devices and the automation we will want at the intersection level.
 
-#### Infrastructure **and Digital Equity \(Rondella Hawkins, Telecommunications and Regulatory Affairs Officer\)**
+#### Infrastructure and Digital Equity \(Rondella Hawkins, Telecommunications and Regulatory Affairs Officer\)
 
 * Lots of hype about 5G, but industry is also focused on densifying current 4G coverage. Carriers want to install beacons in public right of way in dense areas.
 * Implications for cities’ regulatory framework.
@@ -86,7 +86,7 @@ This meeting focuses on the infrastructure and connectivity that enables technol
 * ATD is working on a pilot of underground electronics for traffic signal control. This could make more space for the ground furniture required for small cells.
 * Standards for 5G antennas won’t be complete until 2020. These will impact pole design.
 
-#### **Wifi in Austin parks \(Mike Strycharske, Parks and Recreation\)**
+#### Wifi in Austin parks \(Mike Strycharske, Parks and Recreation\)
 
 [Wifi in Austin parks slides](https://drive.google.com/open?id=1bMsykATYCyIwYQo6YIgFTh_MfM45KSws)
 
@@ -99,7 +99,7 @@ This meeting focuses on the infrastructure and connectivity that enables technol
 * Planning for load on wifi networks \(ex: high demand during ACL Fest\).
 * Want to avoid installation of poles in parks. PARD would own the poles, and AE would provide the electric service.
 
-#### Aust**in Energy plans \(Victor Carr, Austin Energy\)**
+#### Austin Energy plans \(Victor Carr, Austin Energy\)
 
 Overview of planned and current research projects using connected tech:
 
@@ -109,7 +109,7 @@ Overview of planned and current research projects using connected tech:
 * Exploring using sensors on utility poles. Use case: vehicle vehicle collision with a pole. The sensor would dispatch a drone for inspection \(and follow with work crew\), send collision location, alert first responders for faster response.
 * Exploring underground sensors for ground moisture around poles, for predictive maintenance and flood prediction.
 
-#### **National Science Foundation 5G grant opportunity \(Ted Lehr, Communications and Technology Management\)**
+#### National Science Foundation 5G grant opportunity \(Ted Lehr, Communications and Technology Management\)
 
 [National Science Foundation 5G grant opportunity slides](https://drive.google.com/file/d/11wVsD_D0d7UqFfuQNb7Ddi1ClmnT7lpa/view?usp=sharing)
 
