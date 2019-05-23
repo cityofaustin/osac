@@ -1,3 +1,7 @@
+---
+description: >-
+  text
+---
 # January 22, 2018
 
 Meeting date: January 22, 2018  
