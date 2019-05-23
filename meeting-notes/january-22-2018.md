@@ -1,3 +1,7 @@
+---
+description: >-
+  Identifying focus areas for open and smart portfolio in 2018
+---
 # January 22, 2018
 
 Meeting date: January 22, 2018  
