@@ -1,3 +1,7 @@
+---
+description: >-
+  text
+---
 # September 4, 2018
 
 Meeting date: September 4, 2018   
