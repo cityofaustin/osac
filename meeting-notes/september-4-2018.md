@@ -1,24 +1,24 @@
 ---
-description: >-
-  Discussion of smart city infrastructure and connectivity issues
+description: Discussion of smart city infrastructure and connectivity issues
 ---
+
 # September 4, 2018
 
-Meeting date: September 4, 2018   
-Meeting time: 9:30 AM - 11:00 AM   
-Location: City Hall boards and commissions room 
+Meeting date: September 4, 2018  
+Meeting time: 9:30 AM - 11:00 AM  
+Location: City Hall boards and commissions room
 
-## Desired meeting outcomes 
+## Desired meeting outcomes
 
 * Alignment on next steps for smart city infrastructure and connectivity issues
 * Action items for National Science Foundation 5G grant application
 
-## Agenda 
+## Agenda
 
 **I. Welcome and meeting overview \(10 min\)**
 
-**II. Key issue: Smart city infrastructure and connectivity \(60 min\)**   
-Industry trends and City efforts regarding 5G, small cell, and public wifi -- and how the City might influence the market 
+**II. Key issue: Smart city infrastructure and connectivity \(60 min\)**  
+Industry trends and City efforts regarding 5G, small cell, and public wifi -- and how the City might influence the market
 
 * Industry trends and 5G rollout 
 * Infrastructure and Digital Equity 
@@ -26,13 +26,13 @@ Industry trends and City efforts regarding 5G, small cell, and public wifi -- an
 * Austin Energy plans 
 * National Science Foundation 5G grant opportunity
 
-**III. Announcements and updates \(15 min\)** 
+**III. Announcements and updates \(15 min\)**
 
 * Next steps on smart city strategic roadmap \([link to memo](http://bit.ly/scupdate-aug2018)\) 
 * Updates from working groups 
 * In the next 60 days, where do you need help, or where can you offer help?
 
-**IV. Closing \(5 min\)** 
+**IV. Closing \(5 min\)**
 
 * Approval of [committee charter](https://docs.google.com/document/d/1fwKLo_9YXwOKRKyaOxN1Wxc6i8cirTH24qIVpYsVW2E/edit?usp=sharing) 
 * Recap of action items and future agenda items 
@@ -62,8 +62,6 @@ Previous meeting, June 2018, discussed needs that departments have for coordinat
 * The Innovation Office shared a memo before the meeting that updates on next steps in the Smart City Strategic Roadmap. This follows up on the needs identified last meeting.
 
 This meeting focuses on the infrastructure and connectivity that enables technology. We want to know where industry is going and where we might move the market to make connectivity available to more communities in Austin.
-
-
 
 ### II. Key issue: Smart city infrastructure and connectivity
 

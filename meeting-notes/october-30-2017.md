@@ -1,10 +1,12 @@
 ---
 description: >-
-  Discussion of smart city strategic roadmap and what role the Committee might play
+  Discussion of smart city strategic roadmap and what role the Committee might
+  play
 ---
+
 # October 30, 2017
 
-Meeting date: October 30, 2017   
+Meeting date: October 30, 2017  
 Meeting time: 10:00 AM - 11:30 AM
 
 ## **Desired meeting outcomes**
