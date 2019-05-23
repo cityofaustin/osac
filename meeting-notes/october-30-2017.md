@@ -1,6 +1,6 @@
 ---
 description: >-
-  text
+  Discussion of smart city strategic roadmap and what role the Committee might play
 ---
 # October 30, 2017
 
@@ -12,7 +12,7 @@ Meeting time: 10:00 AM - 11:30 AM
 * Feedback and insights on the smart city roadmap update
 * Identification of challenges facing multiple departments and what roles the committee might play in solving them
 
-## Agend**a**
+## Agenda
 
 **I. Welcome and meeting context \(10 min\)**
 
@@ -107,7 +107,7 @@ Relationships with stakeholders
 * The group voiced desire to continue discussing the legal, ethical, and strategic questions regarding partnerships and membership in associations related to smart cities.
 * The City has many “currencies” to use with smart cities: contracts to deliver products and services, data, recognition. There was discussion of choices on monetizing data – should the city be monetizing data? Access to resources: staff, money and infrastructure. Considerations for equity, security: This is why we need this advisory group: for advice, decision-making, to unpack challenges.
 
-### **IV. Close loo**p on renaming the Board
+### IV. Close loop on renaming the Board
 
 No objections to changing the name from Open Government Operating Board, to Open and Smart Advisory Committee \(as supported by a staff advisory network\).
 
