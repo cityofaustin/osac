@@ -1,3 +1,7 @@
+---
+description: >-
+  text
+---
 # October 30, 2017
 
 Meeting date: October 30, 2017   
