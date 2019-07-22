@@ -1,7 +1,7 @@
 ---
-description: >-
-  Identifying focus areas for open and smart portfolio in 2018
+description: Identifying focus areas for open and smart portfolio in 2018
 ---
+
 # January 22, 2018
 
 Meeting date: January 22, 2018  
@@ -50,11 +50,11 @@ Last meeting: October 30, 2017 \([link to notes](https://docs.google.com/documen
 
 #### **Accomplishments in past year**
 
-ACM Arellano opened the meeting by recapping the intended purpose of redesigning this group to become an advisory body for open government and smart cities projects.  There was reflection on these projects and how these processes compliment the IT process. A goal is to assist those projects that need assistance not decide what projects what move forward. \([More information on the intent for the group here](https://opengovpartnership.bloomfire.com/series/35086/posts/1360071).\)
+ACM Arellano opened the meeting by recapping the intended purpose of redesigning this group to become an advisory body for open government and smart cities projects. There was reflection on these projects and how these processes compliment the IT process. A goal is to assist those projects that need assistance not decide what projects what move forward. \([More information on the intent for the group here](https://opengovpartnership.bloomfire.com/series/35086/posts/1360071).\)
 
 #### **Update on IT intake process redesign**
 
-Khalil Shalabi provided an update on the IT intake process going through the IT steering committee, this is a collaboration with CTM and Innovation office. The process evaluates how CTM takes in work, prioritizes needs, and to support implementation. Many of smart city projects will be implemented under CTM management.  These projects represent the same resources as smart city projects. A need has been identified to filter to the right criteria and to market and channel this process to all departments.
+Khalil Shalabi provided an update on the IT intake process going through the IT steering committee, this is a collaboration with CTM and Innovation office. The process evaluates how CTM takes in work, prioritizes needs, and to support implementation. Many of smart city projects will be implemented under CTM management. These projects represent the same resources as smart city projects. A need has been identified to filter to the right criteria and to market and channel this process to all departments.
 
 There was discussion on the channels for evaluation of the projects, including equity, and the need for metrics to demonstrate the overall impact of this process.
 
@@ -66,15 +66,15 @@ ACM Arellano introduced the updated charter to the Advisory Committee and asked 
 
 #### **Alignment with strategic plan**
 
-Jill Goodman provided an update on the Council Strategic Plan serving organizational focus areas and goals for the next 3-5 years.  The intent is to support City Council and staff work from one single playbook, all working together to a clear set of priorities. These priorities are represented by six outcomes that the City Council wants all residents to experience.
+Jill Goodman provided an update on the Council Strategic Plan serving organizational focus areas and goals for the next 3-5 years. The intent is to support City Council and staff work from one single playbook, all working together to a clear set of priorities. These priorities are represented by six outcomes that the City Council wants all residents to experience.
 
 There was discussion on the alignment of the Advisory Committee to the Strategic Plan, and the data needed to report to Council on progress toward outcomes.
 
 #### **Open Government Partnership and project tracker**
 
-Marni Wilhite provided an update on the work from year to show benefits for coordinating open government efforts across departments.  There is an opportunity for alignment between OGP commitments and solving key city challenges in 2018-2019. The example provided could involve a subset of strategies from the strategic plan and form OGP commitments around them.  This could result in even more alignment, and could focus on exploring opportunities to use smart tech to solve for those strategies \(and do discovery to examine the risks, unintended consequences, equity implications of a smart tech solution\).
+Marni Wilhite provided an update on the work from year to show benefits for coordinating open government efforts across departments. There is an opportunity for alignment between OGP commitments and solving key city challenges in 2018-2019. The example provided could involve a subset of strategies from the strategic plan and form OGP commitments around them. This could result in even more alignment, and could focus on exploring opportunities to use smart tech to solve for those strategies \(and do discovery to examine the risks, unintended consequences, equity implications of a smart tech solution\).
 
-Marni also provided an update on the prototype of the project tracking tool designed to give people a transparent view into City government projects in Austin.  This project seeks to make it easier for people in Austin to have a sense of what projects the City is working on, the state of progress of those projects, how the projects relate to critical goals, and how they are funded. More specifically, staff is committed to build an online project tracking tool people can use to find this information.
+Marni also provided an update on the prototype of the project tracking tool designed to give people a transparent view into City government projects in Austin. This project seeks to make it easier for people in Austin to have a sense of what projects the City is working on, the state of progress of those projects, how the projects relate to critical goals, and how they are funded. More specifically, staff is committed to build an online project tracking tool people can use to find this information.
 
 ### **III. Discuss potential focus areas for this group in 2018**
 
@@ -133,3 +133,4 @@ The committee identified 4 focus areas to create working groups. Below is the de
 18. Karla Taylor, ATD
 19. Wendi White, CTM
 20. Marni Wilhite, CTM
+
